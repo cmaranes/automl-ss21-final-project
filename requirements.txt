@@ -1,0 +1,22 @@
+requests
+argparse
+numpy
+pillow==8.2.0
+scipy==1.4.1
+scikit-learn
+nose
+tqdm
+matplotlib
+seaborn
+pandas
+liac-arff
+ConfigSpace
+smac
+torch
+torchvision
+torchsummary
+jupyter
+csv
+
+# add your requirements below this line
+wandb

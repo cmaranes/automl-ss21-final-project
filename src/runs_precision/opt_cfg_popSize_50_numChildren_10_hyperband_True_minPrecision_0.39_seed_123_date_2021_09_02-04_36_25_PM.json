@@ -1,0 +1,1 @@
+{"batch_size": 280, "dropout_rate": 0.013911482650869637, "global_avg_pooling": true, "kernel_size": 5, "learning_rate_init": 0.00153432049648192, "n_channels_conv_0": 351, "n_channels_fc_0": 226, "n_conv_layers": 2, "n_fc_layers": 1, "use_BN": true, "n_channels_conv_1": 109}
